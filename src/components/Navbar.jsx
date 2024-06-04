@@ -42,9 +42,6 @@ export default function Navbar(){
                     <option value="brl">BRL</option>
                     <option value="eur">EUR</option>
                 </select>
-                <button>Cadastra-se
-                    <img src="src/assets/arrow_icon.png" alt="" />
-                </button>
             </div>
         </div>
 
