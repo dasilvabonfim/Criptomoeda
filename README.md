@@ -10,7 +10,7 @@ InfoCripto é uma aplicação web desenvolvida com React que oferece informaçõ
 
 
 ## Funcionalidades
-- **Atualizações de Preços em Tempo Real**: Acompanhe os preços das criptomoedas atualizados em tempo real.
+- **Atualizações de Preços em Tempo Real**: Acompanhe os preços das criptomoedas atualizados em tempo real em dólar,euro ou real.
 - **Pesquisa de Criptomoedas**: Encontre facilmente informações detalhadas sobre sua criptomoeda preferida.
 - **Gráficos e Análises**: Visualize tendências do mercado com gráficos interativos.
 - **Design Responsivo**: Acesse o site de qualquer dispositivo, seja desktop ou móvel.
